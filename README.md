@@ -6,7 +6,7 @@ Welcome, digital minimalists!
 
 ## 📖 The Backstory
 
-In 2025, I started the journey to reclaim my attention and focus in this age of dopamine system exploiting algorithms.
+In 2025, I started the journey to reclaim my attention and focus in this age of algorithms designed to exploit our dopamine system.
 
 On Android (at least on Pixel), the grayscale filter is strictly binary (ON/OFF). I like it, but sometimes I find myself wishing for just a "hint" of color for better orientation in the UI or to recognize emojis.
 
