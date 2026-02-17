@@ -43,8 +43,10 @@ Premium E-ink modes provide the most eye-friendly experience and the fewest dist
 
 ## 💬 Feedback
 
+[Join the Official XDA Developers Thread](https://xdaforums.com/t/app-15-0-pastelize-screen-desaturation-no-root.4779225/)
+
 Device compatibility reports, bug reports, localization errors, and feature requests are highly appreciated.
 
-Thank you and enjoy the app!
+**Thank you and enjoy the app!**
 
 [Get Pastelize on Google Play](https://play.google.com/store/apps/details?id=pastelize.android)
