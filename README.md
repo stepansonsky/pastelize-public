@@ -1,11 +1,12 @@
-## Pastelize
+# 🎨 Pastelize Android
 
-### Welcome, digital minimalists!
+Welcome, digital minimalists!
+Pastelize is the first and only Android app that lets you fine-tune screen saturation without root access.
 
 ![Pastelize banner](media/banner.png)
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=pastelize.android">
+  <a href="https://play.google.com/store/apps/details?id=pastelize.android" target="_blank" rel="noopener noreferrer">
     <img src="media/play-store-button.png" alt="Get Pastelize on Google Play" width="33%" />
   </a>
 </p>
@@ -46,6 +47,8 @@ Found a bug or have a feature idea? All feedback is welcome!
 ## 🧡 Support
 Like the idea and want to support the project even more? I’d be grateful if you dropped me a few Sats.
 
-[Donate BTC](bitcoin:bc1qq0elgd8etpkdnnfetja7rqkd2yyt5qfcmhk5u4)
+```text
+bc1qq0elgd8etpkdnnfetja7rqkd2yyt5qfcmhk5u4
+```
 
 **Thank you and enjoy the app!**
