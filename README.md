@@ -35,7 +35,7 @@ Due to the nature of this specific implementation, the app has a few minor limit
 
 ## ✒️ E-ink Experience
 
-Premium E-ink simulation modes provide the most eye-friendly experience and the fewest distractions, while supporting the development of the app.
+Premium E-ink modes provide superior eye comfort and a more colorful world beyond the screen, while supporting the development of Pastelize.
 
 💡 Pro-Tip: Use a matte screen protector for the ultimate paper-like feel.
 
