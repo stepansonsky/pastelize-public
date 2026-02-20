@@ -1,7 +1,8 @@
 # 🎨 Pastelize Android
 
-Welcome, digital minimalists!
-Pastelize is the first and only Android app that lets you fine-tune screen saturation without root access.
+**Welcome, digital minimalists!**
+
+Pastelize is the first and only Android app that lets you decrease screen saturation without root access.
 
 ![Pastelize banner](media/banner.png)
 
@@ -30,7 +31,7 @@ Pastelize relies on a system feature available on most devices with Android 15 &
 Due to the nature of this specific implementation, the app has a few minor limitations:
 
 - **Connected Wi-Fi:** Because the app uses the wireless debugging protocol, you must be connected to Wi-Fi to adjust the saturation.
-- **Resets:** Saturation resets after a device restart or if you toggle grayscale via Digital Wellbeing. If you use it, be sure to disable any grayscale mode automations.
+- **Resets:** Saturation resets after a device reboot or if you toggle grayscale via Digital Wellbeing. If you use it, be sure to disable any grayscale mode automations.
 
 ## ✒️ E-ink Experience
 
