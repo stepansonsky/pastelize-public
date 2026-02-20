@@ -3,7 +3,7 @@ Last Updated: February 20, 2026
 
 I hold myself to high ethical and moral standards. Pastelize executes ONLY the command to set saturation through the ADB protocol and nothing else. To be fully transparent, I will be open-sourcing the core of the app soon.
 
-This policy explains how we handle your data — which, in short, is as little as possible.
+This policy explains how I handle your data — which, in short, is as little as possible.
 
 ## Data Collection and Usage
 Pastelize does not collect personal information (such as your name, email, or contact list). I only collect non-personally identifiable technical data for the following purposes:
