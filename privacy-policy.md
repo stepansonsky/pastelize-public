@@ -1,5 +1,5 @@
 # Pastelize Privacy Policy
-Last Updated: March 11, 2026
+Last Updated: March 13, 2026
 
 I hold myself to high ethical and moral standards. Pastelize executes ONLY the command to set saturation through the ADB protocol and nothing else. To be fully transparent, I will be open-sourcing the core of the app soon.
 
